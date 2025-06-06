@@ -43,3 +43,8 @@
 - ![倒计时]:(\src\assets\Countdown.png)
 - ![日历热力图]:(\src\assets\Timer.png)
 
+## 配置文件
+ `npm install`
+
+## 启动文件
+ `npm run serve`
