@@ -39,9 +39,9 @@
   
 ## 核心功能
 
-- ![计时器]:(\src\assets\Timer.png)
-- ![倒计时]:(\src\assets\Countdown.png)
-- ![日历热力图]:(\src\assets\Timer.png)
+- ![计时器](/src/assets/Timer.png)
+- ![倒计时](/src/assets/Countdown.png)
+- ![日历热力图](/src/assets/Timer.png)
 
 ## 配置文件
  `npm install`
