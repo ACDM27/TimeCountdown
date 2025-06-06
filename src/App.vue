@@ -1,8 +1,11 @@
 <template>
+  <div id="app">
+    <Timer />
+  </div>
 </template>
 
 <script>
-import HelloWorld from './components/Timer.vue'
+import Timer from './components/Timer.vue'
 
 export default {
   name: 'App',

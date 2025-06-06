@@ -1,4 +1,9 @@
-<!-- Timer.vue -->
+<script>
+export default {
+  name: 'TimerView',
+  // ... existing code ...
+}
+</script>
 <template>
     <div class="timer-container">
       <!-- 模式切换 -->
